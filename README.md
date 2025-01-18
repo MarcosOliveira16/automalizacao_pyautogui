@@ -1,0 +1,1 @@
+# automalizacao_pyautogui
