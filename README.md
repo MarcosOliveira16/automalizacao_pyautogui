@@ -6,10 +6,6 @@ Este projeto realiza a automação de tarefas utilizando a biblioteca [PyAutoGUI
 
 Certifique-se de que os seguintes requisitos estejam instalados em seu ambiente:
 
-### Arquivo Necessário
-
-1. O banco de dados "produtos.csv".
-
 ### Bibliotecas Python
 
 1. Instale as dependências necessárias com o seguinte comando:
