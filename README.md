@@ -6,6 +6,10 @@ Este projeto realiza a automação de tarefas utilizando a biblioteca [PyAutoGUI
 
 Certifique-se de que os seguintes requisitos estejam instalados em seu ambiente:
 
+### Arquivo Necessário
+
+1. O banco de dados "produtos.csv".
+
 ### Bibliotecas Python
 
 1. Instale as dependências necessárias com o seguinte comando:
@@ -127,4 +131,4 @@ Para identificar as coordenadas corretamente, utilize o script auxiliar da bibli
 
 Este projeto foi criado com o intuito de demonstrar a utilização do PyAutoGUI para automação de tarefas repetitivas.
 
-Feito com base na aula 1 do "Jornada Python da Hashtag".
+Feito com base na aula 1 da "Jornada Python da Hashtag".
